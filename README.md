@@ -1,2 +1,2 @@
 # test-repo
-Proof 1
+Proof 1.0
